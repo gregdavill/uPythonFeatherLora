@@ -11,4 +11,5 @@
 	(lib (name pkl_tag_connect)(type KiCad)(uri ${KIPRJMOD}/../../lib/pkl/pkl_tag_connect.pretty)(options "")(descr ""))
 	(lib (name pkl_dipol)(type KiCad)(uri ${KIPRJMOD}/../../lib/pkl/pkl_dipol.pretty)(options "")(descr ""))
 	(lib (name pkl_housings_sot)(type KiCad)(uri ${KIPRJMOD}/../../lib/pkl/pkl_housings_sot.pretty)(options "")(descr ""))
+	(lib (name pkl_connectors)(type KiCad)(uri ${KIPRJMOD}/../../lib/pkl/pkl_connectors.pretty)(options "")(descr ""))
 )
